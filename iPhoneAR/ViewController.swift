@@ -13,7 +13,6 @@ import ARKit
 class ViewController: UIViewController {
 
     @IBOutlet var sceneView: ARSCNView!
-    var index = 0
 
     
     var focusSquare: FocusSquare?
